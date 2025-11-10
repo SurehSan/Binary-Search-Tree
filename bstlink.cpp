@@ -2,7 +2,7 @@
 #include <fstream>
 using namespace std;
 
-#include "bstlink.h"
+#include "bst_classes.h"
 
 
 //THIS FILE DOES BINARY SEARCH TREE USING LINKED LISTS
